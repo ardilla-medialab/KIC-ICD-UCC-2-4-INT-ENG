@@ -1,0 +1,77 @@
+{
+  "questions": [
+    {
+      "text": "Me considero una persona creativa."
+    },
+    {
+      "text": "Me gusta crear cosas."
+    },
+    {
+      "text": "Hago las cosas con pasión."
+    },
+    {
+      "text": "Creo en mis proyectos y en lo que hago."
+    },
+    {
+      "text": "Aporto soluciones creativas."
+    },
+    {
+      "text": "No tengo miedo a tomar riesgos"
+    },
+    {
+      "text": "Me gusta trabajar en equipo."
+    },
+    {
+      "text": "Me emocionan los nuevos retos."
+    },
+    {
+      "text": "Suelo escuchar las críticas sobre mis proyectos."
+    },
+    {
+      "text": "Suelo ver oportunidades donde los demás ven problemas."
+    },
+    {
+      "text": "Creo que \"siempre hay una manera\" de resolver problemas."
+    },
+    {
+      "text": "Soy una persona empática a lo que me rodea."
+    },
+    {
+      "text": "Considero que siempre se puede aprender más."
+    },
+    {
+      "text": "No tengo miedo en pensar en grande."
+    },
+    {
+      "text": "Me considero una persona soñadora."
+    },
+    {
+      "text": "Soy una persona observadora."
+    },
+    {
+      "text": "Constantemente busco nuevas experiencias."
+    },
+    {
+      "text": "Creo que fallar me hace cada vez más fuerte."
+    },
+    {
+      "text": "Soy una persona curiosa."
+    },
+    {
+      "text": "A veces pierdo la noción del tiempo cuando estoy trabajando."
+    },
+    {
+      "text": "Suelo rodearme de cosas que me inspiran."
+    },
+    {
+      "text": "Estoy dispuesto a correr los riesgos de tener un negocio."
+    },
+    {
+      "text": "Considero que mis ideas resuelven problemas que nadie resuelve."
+    },
+    {
+      "text": "Soy capaz de formar equipos valiosos."
+    }
+  ],
+  "min-score": 21
+}
